@@ -15,8 +15,8 @@
 	<body_html>&lt;p&gt;Sirve para tallas S a M. Top que realza y moldea.&lt;/p&gt;</body_html>
 	<createdDate>2020-04-02T16:54:45.259Z</createdDate>
 	<createdDate_dt>2020-04-02T16:54:45.259Z</createdDate_dt>
-	<lastModifiedDate>2020-04-02T21:07:36.907Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-04-02T21:07:36.907Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-04-02T21:42:28.207Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-04-02T21:42:28.207Z</lastModifiedDate_dt>
 	<optName1_s>Color</optName1_s>
 	<optName2_s/>
 	<optName3_s/>
@@ -51,4 +51,9 @@
 	<giftCard_b>true</giftCard_b>
 	<vImage_s>/static-assets/images/products/bl03-negra.jpg</vImage_s>
 	</item></variants_o>
+	<store_o item-list="true">	<item datasource="storeDS">	<key>/site/components/stores/9c9a2169-db95-1de7-c160-349e9172ae57.xml</key>
+	<value>costa-rica</value>
+	<include>/site/components/stores/9c9a2169-db95-1de7-c160-349e9172ae57.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></store_o>
 </component>
