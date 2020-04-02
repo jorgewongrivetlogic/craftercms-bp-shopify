@@ -828,5 +828,36 @@
 						</property>
 					</properties>
 				</datasource>
+				<datasource>
+					<type>img-desktop-upload</type>
+					<id>uploadImageDS</id>
+					<title>Upload Image DS</title>
+					<interface>image</interface>
+					<properties>
+						<property>
+							<name>repoPath</name>
+							<value></value>
+								<type>undefined</type>
+						</property>
+					</properties>
+				</datasource>
+				<datasource>
+					<type>img-repository-upload</type>
+					<id>repositoryImageDS</id>
+					<title>Repository Image DS</title>
+					<interface>image</interface>
+					<properties>
+						<property>
+							<name>repoPath</name>
+							<value></value>
+								<type>undefined</type>
+						</property>
+						<property>
+							<name>useSearch</name>
+							<value>false</value>
+								<type>undefined</type>
+						</property>
+					</properties>
+				</datasource>
 	</datasources>
 </form>
