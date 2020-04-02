@@ -1171,13 +1171,38 @@
 					</properties>
 				</datasource>
 				<datasource>
-					<type>embedded-content</type>
+					<type>shared-content</type>
 					<id>storeDS</id>
 					<title>Store DS</title>
 					<interface>item</interface>
 					<properties>
 						<property>
-							<name>contentType</name>
+							<name>enableCreateNew</name>
+							<value>false</value>
+								<type>undefined</type>
+						</property>
+						<property>
+							<name>enableBrowseExisting</name>
+							<value>true</value>
+								<type>undefined</type>
+						</property>
+						<property>
+							<name>enableSearchExisting</name>
+							<value>true</value>
+								<type>undefined</type>
+						</property>
+						<property>
+							<name>repoPath</name>
+							<value>/component/store</value>
+								<type>undefined</type>
+						</property>
+						<property>
+							<name>browsePath</name>
+							<value>/component/store</value>
+								<type>undefined</type>
+						</property>
+						<property>
+							<name>type</name>
 							<value>/component/store</value>
 								<type>undefined</type>
 						</property>
