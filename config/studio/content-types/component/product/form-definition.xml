@@ -1183,7 +1183,7 @@
 						</property>
 						<property>
 							<name>componentPath</name>
-							<value></value>
+							<value>/components/stores/</value>
 								<type>undefined</type>
 						</property>
 					</properties>
