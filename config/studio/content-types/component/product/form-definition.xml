@@ -1193,12 +1193,12 @@
 						</property>
 						<property>
 							<name>repoPath</name>
-							<value></value>
+							<value>/site/components/stores</value>
 								<type>undefined</type>
 						</property>
 						<property>
 							<name>browsePath</name>
-							<value>/components</value>
+							<value>/site/components/stores</value>
 								<type>undefined</type>
 						</property>
 						<property>
