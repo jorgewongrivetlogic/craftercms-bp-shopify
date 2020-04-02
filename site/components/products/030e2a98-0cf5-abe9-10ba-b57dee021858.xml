@@ -7,29 +7,35 @@
 	<objectGroupId>030e</objectGroupId>
 	<objectId>030e2a98-0cf5-abe9-10ba-b57dee021858</objectId>
 	<internal-name>top-jlc-jt005n</internal-name>
-	<sku_s>10028301</sku_s>
 	<title_s>Top JLC JT005N</title_s>
 	<vendor_s>JLC</vendor_s>
 	<type_s>Top</type_s>
 	<tag_s>Ropa Mujer, Deportiva</tag_s>
-	<tracker_s>shopify</tracker_s>
-	<policy_s>deny</policy_s>
-	<fulfillment_s>correos-de-costa-rica</fulfillment_s>
-	<price_s>9500</price_s>
-	<comparePrice_s>12500</comparePrice_s>
-	<shipping_b>true</shipping_b>
-	<taxable_b>true</taxable_b>
-	<giftCard_b>false</giftCard_b>
 	<file-name>030e2a98-0cf5-abe9-10ba-b57dee021858.xml</file-name>
 	<body_html>&lt;p&gt;Sirve para tallas S a M. Top que realza y moldea.&lt;/p&gt;</body_html>
-	<options_o item-list="true">	<item>	<name_s>Color</name_s>
-	<value_s>Negro</value_s>
-	</item>	<item>	<name_s>Talla</name_s>
-	<value_s>M</value_s>
-	</item></options_o>
-	<ttile_o item-list="true"/>
 	<createdDate>2020-04-02T16:54:45.259Z</createdDate>
 	<createdDate_dt>2020-04-02T16:54:45.259Z</createdDate_dt>
-	<lastModifiedDate>2020-04-02T16:54:45.259Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-04-02T16:54:45.259Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-04-02T20:52:25.554Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-04-02T20:52:25.554Z</lastModifiedDate_dt>
+	<optName1_s>Color</optName1_s>
+	<optName2_s/>
+	<optName3_s/>
+	<images_o item-list="true">	<item>	<image_s>/static-assets/images/products/bl03-blanca.jpg</image_s>
+	</item>	<item>	<image_s>/static-assets/images/products/bl03-negra.jpg</image_s>
+	</item>	<item>	<image_s>/static-assets/images/products/bl03-palorosa.jpg</image_s>
+	</item></images_o>
+	<variants_o item-list="true">	<item>	<sKU_s>00001</sKU_s>
+	<optValue1_s>White</optValue1_s>
+	<optValue2_s/>
+	<optValue3_s/>
+	<tracker_s/>
+	<policy_s/>
+	<fulfillment_s/>
+	<price_s>10000</price_s>
+	<comparePrice_s>12000</comparePrice_s>
+	<vImage_s/>
+	<taxable_b>false</taxable_b>
+	<shipping_b>true</shipping_b>
+	<giftCard_b>true</giftCard_b>
+	</item></variants_o>
 </component>
