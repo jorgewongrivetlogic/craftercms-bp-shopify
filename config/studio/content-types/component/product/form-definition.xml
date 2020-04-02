@@ -1188,22 +1188,22 @@
 						</property>
 						<property>
 							<name>enableSearchExisting</name>
-							<value>true</value>
+							<value>false</value>
 								<type>undefined</type>
 						</property>
 						<property>
 							<name>repoPath</name>
-							<value>/component/stores</value>
+							<value>/components/stores</value>
 								<type>undefined</type>
 						</property>
 						<property>
 							<name>browsePath</name>
-							<value>/component/stores</value>
+							<value>/components/stores</value>
 								<type>undefined</type>
 						</property>
 						<property>
 							<name>type</name>
-							<value>/component/stores</value>
+							<value></value>
 								<type>undefined</type>
 						</property>
 					</properties>
