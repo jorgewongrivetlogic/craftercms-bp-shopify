@@ -400,7 +400,7 @@
 						</property>
 						<property>
 							<name>imageManager</name>
-							<value></value>
+							<value>uploadImageDS,repositoryImageDS</value>
 							<type>datasource:image</type>
 						</property>
 						<property>
@@ -836,7 +836,7 @@
 					<properties>
 						<property>
 							<name>repoPath</name>
-							<value></value>
+							<value>/static-assets/images/products</value>
 								<type>undefined</type>
 						</property>
 					</properties>
@@ -849,7 +849,7 @@
 					<properties>
 						<property>
 							<name>repoPath</name>
-							<value></value>
+							<value>/static-assets/images/products</value>
 								<type>undefined</type>
 						</property>
 						<property>
