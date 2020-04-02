@@ -124,7 +124,7 @@
 						</property>
 						<property>
 							<name>itemManager</name>
-							<value>componentDS</value>
+							<value>storeDS</value>
 							<type>datasource:item</type>
 						</property>
 						<property>
