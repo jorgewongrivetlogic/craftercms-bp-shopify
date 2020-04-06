@@ -1366,12 +1366,12 @@
 						</property>
 						<property>
 							<name>repoPath</name>
-							<value></value>
+							<value>/site/components/store</value>
 								<type>undefined</type>
 						</property>
 						<property>
 							<name>browsePath</name>
-							<value>/component/store</value>
+							<value>/site/components/store</value>
 								<type>undefined</type>
 						</property>
 						<property>
