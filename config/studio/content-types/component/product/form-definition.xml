@@ -619,7 +619,7 @@
 					<fields>
 				<field>
 					<type>input</type>
-					<id>sKU_s</id>
+					<id>sku_s</id>
 					<iceId></iceId>
 					<title>SKU</title>
 					<description></description>
@@ -650,7 +650,7 @@
 					<constraints>
 						<constraint>
 							<name>required</name>
-							<value><![CDATA[]]></value>
+							<value><![CDATA[true]]></value>
 							<type>boolean</type>
 						</constraint>
 						<constraint>
