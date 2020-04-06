@@ -932,8 +932,8 @@
 					</constraints>
 				</field>
 				<field>
-					<type>input</type>
-					<id>price_s</id>
+					<type>numeric-input</type>
+					<id>price_i</id>
 					<iceId></iceId>
 					<title>Price</title>
 					<description></description>
@@ -946,9 +946,14 @@
 							<type>int</type>
 						</property>
 						<property>
-							<name>maxlength</name>
-							<value>50</value>
-							<type>int</type>
+							<name>maxValue</name>
+							<value></value>
+							<type>float</type>
+						</property>
+						<property>
+							<name>minValue</name>
+							<value></value>
+							<type>float</type>
 						</property>
 						<property>
 							<name>readonly</name>
