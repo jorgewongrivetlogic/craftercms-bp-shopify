@@ -1878,7 +1878,7 @@
 					<properties>
 						<property>
 							<name>contentType</name>
-							<value>/component/product</value>
+							<value>/component/sub-product</value>
 								<type>undefined</type>
 						</property>
 					</properties>
