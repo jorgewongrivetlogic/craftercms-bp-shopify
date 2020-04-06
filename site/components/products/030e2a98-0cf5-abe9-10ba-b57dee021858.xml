@@ -15,14 +15,13 @@
 	<body_html>&lt;p&gt;Sirve para tallas S a M. Top que realza y moldea.&lt;/p&gt;</body_html>
 	<createdDate>2020-04-02T16:54:45.259Z</createdDate>
 	<createdDate_dt>2020-04-02T16:54:45.259Z</createdDate_dt>
-	<lastModifiedDate>2020-04-02T21:42:28.207Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-04-02T21:42:28.207Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-04-06T19:16:31.212Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-04-06T19:16:31.212Z</lastModifiedDate_dt>
 	<optName1_s>Color</optName1_s>
 	<optName2_s/>
 	<optName3_s/>
-	<images_o item-list="true">	<item>	<image_s>/static-assets/images/products/bl03-blanca.jpg</image_s>
-	</item>	<item>	<image_s>/static-assets/images/products/bl03-negra.jpg</image_s>
-	</item>	<item>	<image_s>/static-assets/images/products/bl03-palorosa.jpg</image_s>
+	<images_o item-list="true">	<item>	<image_s>/static-assets/images/products/030e2a98-0cf5-abe9-10ba-b57dee021858/bl03-blanca.jpg</image_s>
+	</item>	<item>	<image_s>/static-assets/images/products/030e2a98-0cf5-abe9-10ba-b57dee021858/bl03-negra.jpg</image_s>
 	</item></images_o>
 	<variants_o item-list="true">	<item>	<sKU_s>00001</sKU_s>
 	<optValue1_s>White</optValue1_s>
@@ -33,10 +32,12 @@
 	<fulfillment_s>correos-de-costa-rica</fulfillment_s>
 	<price_s>10000</price_s>
 	<comparePrice_s>12000</comparePrice_s>
-	<vImage_s>/static-assets/images/products/bl03-blanca.jpg</vImage_s>
+	<vImage_s>/static-assets/images/products/030e2a98-0cf5-abe9-10ba-b57dee021858/bl03-blanca.jpg</vImage_s>
 	<taxable_b>true</taxable_b>
 	<shipping_b>true</shipping_b>
 	<giftCard_b>true</giftCard_b>
+	<price_i/>
+	<sku_s>00001</sku_s>
 	</item>	<item>	<sKU_s>00002</sKU_s>
 	<optValue1_s>Black</optValue1_s>
 	<optValue2_s/>
@@ -49,11 +50,14 @@
 	<comparePrice_s/>
 	<shipping_b>true</shipping_b>
 	<giftCard_b>true</giftCard_b>
-	<vImage_s>/static-assets/images/products/bl03-negra.jpg</vImage_s>
+	<vImage_s>/static-assets/images/products/030e2a98-0cf5-abe9-10ba-b57dee021858/bl03-negra.jpg</vImage_s>
+	<price_i/>
+	<sku_s>000002</sku_s>
 	</item></variants_o>
 	<store_o item-list="true">	<item datasource="storeDS">	<key>/site/components/stores/9c9a2169-db95-1de7-c160-349e9172ae57.xml</key>
 	<value>costa-rica</value>
 	<include>/site/components/stores/9c9a2169-db95-1de7-c160-349e9172ae57.xml</include>
 	<disableFlattening>false</disableFlattening>
 	</item></store_o>
+	<relatedProduct_o item-list="true"/>
 </component>
