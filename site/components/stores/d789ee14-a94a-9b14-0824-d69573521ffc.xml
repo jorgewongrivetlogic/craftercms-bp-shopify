@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/store</content-type>
+	<display-template/>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>d789</objectGroupId>
+	<objectId>d789ee14-a94a-9b14-0824-d69573521ffc</objectId>
+	<currency_s>CRC</currency_s>
+	<file-name>d789ee14-a94a-9b14-0824-d69573521ffc.xml</file-name>
+	<internal-name>Panamá</internal-name>
+	<name_s>Panamá</name_s>
+	<createdDate>2020-04-07T17:27:12.191Z</createdDate>
+	<createdDate_dt>2020-04-07T17:27:12.191Z</createdDate_dt>
+	<lastModifiedDate>2020-04-07T17:27:12.191Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-04-07T17:27:12.191Z</lastModifiedDate_dt>
+</component>
