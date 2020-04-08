@@ -27,6 +27,7 @@ $(":button").click(function() {
         url: url,
         data: data,
         contentType: "application/xml; charset=utf-8",
+        xhrFields: {withCredentials: true},
         success: success,
         dataType: dataType
     });
