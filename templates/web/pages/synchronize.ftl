@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <script type="text/javascript" src="/static-assets/js/syncrhonize.js"></script>
+        <script type="text/javascript" src="/static-assets/js/synchronize.js"></script>
     </head>
     <body>
         <button type="button">Syncrhonize</button>
