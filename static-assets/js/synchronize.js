@@ -1,6 +1,6 @@
 var url = "studio/api/1/services/api/1/content/write-content.json?site=shopify&phase=onSave&path=/site/components/stores/test.xml&fileName=test.xml&user=admin&contentType=/component/store&unlock=true&nocache=Wed Apr 08 2020 14:46:56 GMT-0600 (Central Standard Time)";
 var header= {"X-XSRF-TOKEN: 597eb1d7-7f06-4853-8cd4-7f801b0eeaac"};
-var dataType = "xml";
+var dataType = "json";
 var data = "<component>"+
 	"<content-type>/component/store</content-type>"+
 	"<display-template/>"+
@@ -28,7 +28,7 @@ $(":button").click(function() {
         url: url,
         data: data,
         headers: header,
-        contentType: "application/json; charset=utf-8",
+        contentType: "application/xml; charset=UTF-8",
         crossDomain: true,
         success: success,
         dataType: dataType
