@@ -28,7 +28,7 @@ $(":button").click(function() {
         url: url,
         data: data,
         headers: header,
-        contentType: "application/xml; charset=utf-8",
+        contentType: "application/json; charset=utf-8",
         crossDomain: true,
         success: success,
         dataType: dataType
