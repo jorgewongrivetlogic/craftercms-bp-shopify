@@ -1,5 +1,5 @@
 var url = "studio/api/1/services/api/1/content/write-content.json?site=shopify&phase=onSave&path=/site/components/stores/test.xml&fileName=test.xml&user=admin&contentType=/component/store&unlock=true&nocache=Wed Apr 08 2020 14:46:56 GMT-0600 (Central Standard Time)";
-var header= {"X-XSRF-TOKEN": "597eb1d7-7f06-4853-8cd4-7f801b0eeaac"};
+var header= {"X-XSRF-TOKEN":"597eb1d7-7f06-4853-8cd4-7f801b0eeaac", "Accept": "application/json"};
 var dataType = "json";
 var data = "<component>"+
 	"<content-type>/component/store</content-type>"+
