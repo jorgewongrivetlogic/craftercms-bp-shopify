@@ -27,8 +27,9 @@ $(":button").click(function() {
         type: "POST",
         url: url,
         data: data,
-        beforeSend: function(request) {
-            request.setRequestHeader("X-XSRF-TOKEN", "597eb1d7-7f06-4853-8cd4-7f801b0eeaac");
+        headers: {
+            'X-CSRF-TOKEN':'xxxxxxxxxxxxxxxxxxxx',
+            'Content-Type':'application/xml'
         },
         contentType: "application/xml; charset=UTF-8",
         crossDomain: true,
