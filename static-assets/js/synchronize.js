@@ -32,7 +32,6 @@ $(":button").click(function() {
         },
         contentType: "application/xml; charset=UTF-8",
         crossDomain: true,
-        success: success,
         dataType: dataType
     });
 });
