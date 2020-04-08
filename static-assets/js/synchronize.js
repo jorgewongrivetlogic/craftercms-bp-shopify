@@ -1,5 +1,5 @@
 var url = "studio/api/1/services/api/1/content/write-content.json?site=shopify&phase=onSave&path=/site/components/stores/test.xml&fileName=test.xml&user=admin&contentType=/component/store&unlock=true&nocache=Wed Apr 08 2020 14:46:56 GMT-0600 (Central Standard Time)";
-var dataType = "json";
+var dataType = "xml";
 var data = "<component>"+
 	"<content-type>/component/store</content-type>"+
 	"<display-template/>"+
