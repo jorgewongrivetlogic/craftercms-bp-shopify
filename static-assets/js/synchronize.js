@@ -1,5 +1,5 @@
 var url = "studio/api/1/services/api/1/content/write-content.json?site=shopify&phase=onSave&path=/site/components/stores/test.xml&fileName=test.xml&user=admin&contentType=/component/store&unlock=true&nocache=Wed Apr 08 2020 14:46:56 GMT-0600 (Central Standard Time)";
-var data "<component>"+
+var data = "<component>"+
 	"<content-type>/component/store</content-type>"+
 	"<display-template/>"+
 	"<no-template-required/>"+
@@ -15,6 +15,10 @@ var data "<component>"+
 	"<lastModifiedDate>2020-04-08T16:37:00.267Z</lastModifiedDate>"+
 	"<lastModifiedDate_dt>2020-04-08T16:37:00.267Z</lastModifiedDate_dt>"+
     "</component>";
+    
+var success = function() {
+    alert("success");
+}
 
 $(":button").click(function() {
     $.ajax({
@@ -25,3 +29,4 @@ $(":button").click(function() {
         dataType: dataType
     });
 });
+
