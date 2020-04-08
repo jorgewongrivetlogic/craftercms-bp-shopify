@@ -26,6 +26,7 @@ $(":button").click(function() {
         type: "POST",
         url: url,
         data: data,
+        contentType: "application/xml; charset=utf-8"
         success: success,
         dataType: dataType
     });
