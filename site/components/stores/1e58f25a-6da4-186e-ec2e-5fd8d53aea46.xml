@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/store</content-type>
+	<display-template/>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>1e58</objectGroupId>
+	<objectId>1e58f25a-6da4-186e-ec2e-5fd8d53aea46</objectId>
+	<currency_s>CRC</currency_s>
+	<internal-name>c</internal-name>
+	<name_s>ca</name_s>
+	<file-name>1e58f25a-6da4-186e-ec2e-5fd8d53aea46.xml</file-name>
+	<createdDate>2020-04-08T21:36:04.521Z</createdDate>
+	<createdDate_dt>2020-04-08T21:36:04.521Z</createdDate_dt>
+	<lastModifiedDate>2020-04-08T21:36:04.521Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-04-08T21:36:04.521Z</lastModifiedDate_dt>
+</component>
