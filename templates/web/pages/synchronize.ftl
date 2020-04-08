@@ -5,6 +5,6 @@
         <script type="text/javascript" src="/static-assets/js/synchronize.js"></script>
     </head>
     <body>
-        <button type="button">Syncrhonize</button>
+        <button type="button">Synchronize</button>
     </body>
 </html>
