@@ -27,7 +27,7 @@ $(":button").click(function() {
         type: "POST",
         url: url,
         data: data,
-        headers: header,
+        headers: {'X-XSRF-TOKEN':'597eb1d7-7f06-4853-8cd4-7f801b0eeaac'},
         contentType: "application/xml; charset=UTF-8",
         crossDomain: true,
         success: success,
