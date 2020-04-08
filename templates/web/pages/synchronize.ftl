@@ -2,6 +2,7 @@
 <!DOCTYPE html>
 <html>
     <head>
+        <script type="text/javascript" src="/static-assets/js/jquery.core.js"></script>
         <script type="text/javascript" src="/static-assets/js/synchronize.js"></script>
     </head>
     <body>
