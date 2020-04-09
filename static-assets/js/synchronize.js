@@ -13,7 +13,8 @@ $(":button").click(function() {
         data: data,
         headers: {
             'X-XSRF-TOKEN':'A_VALUE',
-            'Content-Type':'application/json'
+            'Content-Type':'application/json',
+            'otra':'cosa'
         },
         dataType: "json",
         success: success
