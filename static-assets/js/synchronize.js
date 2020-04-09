@@ -5,6 +5,7 @@ var success = function() {
     alert("success");
 }
 
+document.cookie = "XSRF-TOKEN=A_VALUE";
 $(":button").click(function() {
     $.ajax({
         type: "POST",
