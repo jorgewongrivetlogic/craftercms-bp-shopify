@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/product</content-type>
+	<display-template/>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>7b4d</objectGroupId>
+	<objectId>7b4dc191-9759-a734-454b-3ececb74af2b</objectId>
+	<file-name>7b4dc191-9759-a734-454b-3ececb74af2b.xml</file-name>
+	<internal-name>test2</internal-name>
+	<title_s/>
+	<vendor_s/>
+	<type_s/>
+	<tag_s/>
+	<optName1_s/>
+	<optName2_s/>
+	<optName3_s/>
+	<store_o item-list="true">	<item datasource="storeDS">	<key>/site/components/stores/e6b1acb1-cf0c-aeb7-2072-a9d1541b5bc1.xml</key>
+	<value>United States</value>
+	<include>/site/components/stores/e6b1acb1-cf0c-aeb7-2072-a9d1541b5bc1.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></store_o>
+	<overrides_o item-list="true"/>
+	<body_html/>
+	<createdDate>2020-04-14T22:29:00.739Z</createdDate>
+	<createdDate_dt>2020-04-14T22:29:00.739Z</createdDate_dt>
+	<lastModifiedDate>2020-04-14T22:29:00.739Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-04-14T22:29:00.739Z</lastModifiedDate_dt>
+</component>
