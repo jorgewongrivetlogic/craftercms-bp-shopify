@@ -38,8 +38,26 @@
 	<file-name>1140c811-a374-6eaa-cdb7-f7224b56be66.xml</file-name>
 	<createdDate>2020-04-14T22:36:01.894Z</createdDate>
 	<createdDate_dt>2020-04-14T22:36:01.894Z</createdDate_dt>
-	<lastModifiedDate>2020-04-14T22:36:01.894Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-04-14T22:36:01.894Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-04-14T22:37:38.653Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-04-14T22:37:38.653Z</lastModifiedDate_dt>
+	<oTitle_o item-list="true">	<item>	<title_s>Sport Shirt</title_s>
+	</item></oTitle_o>
+	<variants_o item-list="true">	<item>	<sku_s>us-blusa-adnfit-03-01</sku_s>
+	<optValue1_s>White</optValue1_s>
+	<optValue2_s/>
+	<optValue3_s/>
+	<tracker_s>Shopify</tracker_s>
+	<fulfillment_s>Amazon</fulfillment_s>
+	<shipping_b>false</shipping_b>
+	<taxable_b>true</taxable_b>
+	<giftCard_b>false</giftCard_b>
+	<policy_s>deny</policy_s>
+	<price_i>20</price_i>
+	<compareAtPrice_i/>
+	<vImage_s/>
+	</item></variants_o>
+	<images_o item-list="true">	<item>	<image_s>/static-assets/images/products/1140c811-a374-6eaa-cdb7-f7224b56be66/bl03-blanca.jpg</image_s>
+	</item></images_o>
 </component>
 	</item></overrides_o>
 	<body_html>&lt;p&gt;Sirve para tallas S a M.&lt;/p&gt;</body_html>
@@ -75,6 +93,6 @@
 	</item></variants_o>
 	<createdDate>2020-04-14T22:32:26.977Z</createdDate>
 	<createdDate_dt>2020-04-14T22:32:26.977Z</createdDate_dt>
-	<lastModifiedDate>2020-04-14T22:32:26.977Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-04-14T22:32:26.977Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-04-14T22:37:27.735Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-04-14T22:37:27.735Z</lastModifiedDate_dt>
 </component>
