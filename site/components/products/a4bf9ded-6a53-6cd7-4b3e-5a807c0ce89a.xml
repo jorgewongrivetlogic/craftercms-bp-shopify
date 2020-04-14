@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/product</content-type>
+	<display-template/>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>a4bf</objectGroupId>
+	<objectId>a4bf9ded-6a53-6cd7-4b3e-5a807c0ce89a</objectId>
+	<file-name>a4bf9ded-6a53-6cd7-4b3e-5a807c0ce89a.xml</file-name>
+	<internal-name>blusa-adnfit-03</internal-name>
+	<title_s>Blusa ADNFit 03</title_s>
+	<vendor_s>ADNFit</vendor_s>
+	<type_s>Blusa deportiva</type_s>
+	<tag_s>Ropa Deportiva, Ropa Mujer</tag_s>
+	<optName1_s>Color</optName1_s>
+	<optName2_s/>
+	<optName3_s/>
+	<store_o item-list="true">	<item datasource="storeDS">	<key>/site/components/stores/9c9a2169-db95-1de7-c160-349e9172ae57.xml</key>
+	<value>Costa Rica</value>
+	<include>/site/components/stores/9c9a2169-db95-1de7-c160-349e9172ae57.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></store_o>
+	<overrides_o item-list="true"/>
+	<body_html>&lt;p&gt;Sirve para tallas S a M.&amp;lt;br&amp;gt;&lt;/p&gt;</body_html>
+	<images_o item-list="true">	<item>	<image_s>/static-assets/images/products/a4bf9ded-6a53-6cd7-4b3e-5a807c0ce89a/bl03-blanca.jpg</image_s>
+	</item>	<item>	<image_s>/static-assets/images/products/a4bf9ded-6a53-6cd7-4b3e-5a807c0ce89a/bl03-negra.jpg</image_s>
+	</item></images_o>
+	<variants_o item-list="true">	<item>	<sku_s>cr-blusa-adnfit-03-01</sku_s>
+	<optValue1_s>Blanco</optValue1_s>
+	<optValue2_s/>
+	<optValue3_s/>
+	<tracker_s>shopify</tracker_s>
+	<fulfillment_s>correos-de-costa-rica</fulfillment_s>
+	<comparePrice_s/>
+	<vImage_s>/static-assets/images/products/a4bf9ded-6a53-6cd7-4b3e-5a807c0ce89a/bl03-blanca.jpg</vImage_s>
+	<policy_s>allow</policy_s>
+	<price_i>10000</price_i>
+	<taxable_b>true</taxable_b>
+	<shipping_b>true</shipping_b>
+	<giftCard_b>false</giftCard_b>
+	</item>	<item>	<sku_s>cr-blusa-adnfit-03-02</sku_s>
+	<optValue1_s>Negro</optValue1_s>
+	<optValue2_s/>
+	<optValue3_s/>
+	<tracker_s>shopify</tracker_s>
+	<policy_s>deny</policy_s>
+	<fulfillment_s>correos-de-costa-rica</fulfillment_s>
+	<taxable_b>false</taxable_b>
+	<price_i>10000</price_i>
+	<comparePrice_s/>
+	<shipping_b>true</shipping_b>
+	<giftCard_b>true</giftCard_b>
+	<vImage_s>/static-assets/images/products/a4bf9ded-6a53-6cd7-4b3e-5a807c0ce89a/bl03-negra.jpg</vImage_s>
+	</item></variants_o>
+	<createdDate>2020-04-14T20:15:02.695Z</createdDate>
+	<createdDate_dt>2020-04-14T20:15:02.695Z</createdDate_dt>
+	<lastModifiedDate>2020-04-14T20:15:02.695Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-04-14T20:15:02.695Z</lastModifiedDate_dt>
+</component>
