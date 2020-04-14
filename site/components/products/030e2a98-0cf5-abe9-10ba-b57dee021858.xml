@@ -12,16 +12,16 @@
 	<type_s>Top</type_s>
 	<tag_s>Ropa Mujer, Deportiva</tag_s>
 	<file-name>030e2a98-0cf5-abe9-10ba-b57dee021858.xml</file-name>
-	<body_html>&lt;p&gt;Sirve para tallas S a M. Top que realza y moldea.&lt;/p&gt;</body_html>
+	<body_html>&lt;p&gt;description&lt;/p&gt;</body_html>
 	<createdDate>2020-04-02T16:54:45.259Z</createdDate>
 	<createdDate_dt>2020-04-02T16:54:45.259Z</createdDate_dt>
-	<lastModifiedDate>2020-04-06T19:16:31.212Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-04-06T19:16:31.212Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-04-14T16:35:25.367Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-04-14T16:35:25.367Z</lastModifiedDate_dt>
 	<optName1_s>Color</optName1_s>
 	<optName2_s/>
 	<optName3_s/>
-	<images_o item-list="true">	<item>	<image_s>/static-assets/images/products/030e2a98-0cf5-abe9-10ba-b57dee021858/bl03-blanca.jpg</image_s>
-	</item>	<item>	<image_s>/static-assets/images/products/030e2a98-0cf5-abe9-10ba-b57dee021858/bl03-negra.jpg</image_s>
+	<images_o item-list="true">	<item>	<image_s>/static-assets/images/products/030e2a98-0cf5-abe9-10ba-b57dee021858/bl03-negra.jpg</image_s>
+	</item>	<item>	<image_s>/static-assets/images/products/030e2a98-0cf5-abe9-10ba-b57dee021858/bl03-blanca.jpg</image_s>
 	</item></images_o>
 	<variants_o item-list="true">	<item>	<sKU_s>00001</sKU_s>
 	<optValue1_s>White</optValue1_s>
@@ -55,9 +55,58 @@
 	<sku_s>000002</sku_s>
 	</item></variants_o>
 	<store_o item-list="true">	<item datasource="storeDS">	<key>/site/components/stores/9c9a2169-db95-1de7-c160-349e9172ae57.xml</key>
-	<value>costa-rica</value>
+	<value>Costa Rica</value>
 	<include>/site/components/stores/9c9a2169-db95-1de7-c160-349e9172ae57.xml</include>
 	<disableFlattening>false</disableFlattening>
 	</item></store_o>
-	<relatedProduct_o item-list="true"/>
+	<relatedProduct_o item-list="true">	<item datasource="embeddedProductDS" inline="true">	<key>a09baa25-5f9c-55fc-dd73-8fa2f031ca72</key>
+	<value>Costa Rica</value>
+<component id="a09baa25-5f9c-55fc-dd73-8fa2f031ca72">
+	<content-type>/component/sub-product</content-type>
+	<display-template/>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>a09b</objectGroupId>
+	<objectId>a09baa25-5f9c-55fc-dd73-8fa2f031ca72</objectId>
+	<file-name>a09baa25-5f9c-55fc-dd73-8fa2f031ca72.xml</file-name>
+	<internal-name>Costa Rica</internal-name>
+	<store_o item-list="true">	<item datasource="storeDS">	<key>/site/components/stores/9c9a2169-db95-1de7-c160-349e9172ae57.xml</key>
+	<value>Costa Rica</value>
+	<include>/site/components/stores/9c9a2169-db95-1de7-c160-349e9172ae57.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></store_o>
+	<images_o item-list="true"/>
+	<oTitle_o item-list="true"/>
+	<createdDate>2020-04-14T16:41:11.401Z</createdDate>
+	<createdDate_dt>2020-04-14T16:41:11.401Z</createdDate_dt>
+	<lastModifiedDate>2020-04-14T16:41:11.401Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-04-14T16:41:11.401Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="embeddedProductDS" inline="true">	<key>fa7468a5-4fad-4a9e-9d1e-562fcbdd84ac</key>
+	<value>Costa Rica 1</value>
+<component id="fa7468a5-4fad-4a9e-9d1e-562fcbdd84ac">
+	<content-type>/component/sub-product</content-type>
+	<display-template/>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>fa74</objectGroupId>
+	<objectId>fa7468a5-4fad-4a9e-9d1e-562fcbdd84ac</objectId>
+	<internal-name>Costa Rica 1</internal-name>
+	<store_o item-list="true">	<item datasource="storeDS">	<key>/site/components/stores/d789ee14-a94a-9b14-0824-d69573521ffc.xml</key>
+	<value>Panamá</value>
+	<include>/site/components/stores/d789ee14-a94a-9b14-0824-d69573521ffc.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></store_o>
+	<file-name>fa7468a5-4fad-4a9e-9d1e-562fcbdd84ac.xml</file-name>
+	<createdDate>2020-04-14T16:44:16.205Z</createdDate>
+	<createdDate_dt>2020-04-14T16:44:16.205Z</createdDate_dt>
+	<lastModifiedDate>2020-04-14T17:02:41.027Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-04-14T17:02:41.027Z</lastModifiedDate_dt>
+</component>
+	</item></relatedProduct_o>
+	<oTitles_o item-list="true">	<item>	<oTitle_s/>
+	<titleStore_o/>
+	</item>	<item>	<oTitle_s/>
+	<titleStore_o/>
+	</item></oTitles_o>
 </component>
