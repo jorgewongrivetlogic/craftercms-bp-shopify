@@ -1,8 +1,8 @@
 <form>
-	<title>Component - Sub Product</title>
+	<title>Component - Override</title>
 	<description></description>
 	<objectType>component</objectType>
-	<content-type>/component/sub-product</content-type>
+	<content-type>/component/override</content-type>
 	<imageThumbnail>undefined</imageThumbnail>
 	<quickCreate>false</quickCreate>
 	<quickCreatePath></quickCreatePath>
@@ -26,7 +26,7 @@
 		</property>
 	</properties>
 	<sections>		<section>
-			<title>Component - Sub Product Properties</title>
+			<title>Component - Override Properties</title>
 			<description></description>
 			<defaultOpen>true</defaultOpen>
 			<fields>

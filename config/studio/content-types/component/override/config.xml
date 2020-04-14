@@ -1,6 +1,6 @@
 <content-type name="/component/sub-product" is-wcm-type="true">
-	<label>Component - Sub Product</label>
-	<form>/component/sub-product</form>
+	<label>Component - Override</label>
+	<form>/component/override</form>
 	<form-path>simple</form-path>
 	<model-instance-path>NOT-USED-BY-SIMPLE-FORM-ENGINE</model-instance-path>
 	<file-extension>xml</file-extension>
