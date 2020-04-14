@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/product</content-type>
+	<display-template/>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>e6f6</objectGroupId>
+	<objectId>e6f6b43c-3d53-005d-dc6a-cf540203d589</objectId>
+	<file-name>e6f6b43c-3d53-005d-dc6a-cf540203d589.xml</file-name>
+	<internal-name>cr-blusa-adnfit-03</internal-name>
+	<title_s>Blusa ADNFit 03</title_s>
+	<vendor_s>ADNFit</vendor_s>
+	<type_s>Blusa deportiva</type_s>
+	<tag_s>Blusa deportiva, Ropa Mujer</tag_s>
+	<optName1_s>Color</optName1_s>
+	<optName2_s/>
+	<optName3_s/>
+	<store_o item-list="true">	<item datasource="storeDS">	<key>/site/components/stores/9c9a2169-db95-1de7-c160-349e9172ae57.xml</key>
+	<value>Costa Rica</value>
+	<include>/site/components/stores/9c9a2169-db95-1de7-c160-349e9172ae57.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></store_o>
+	<overrides_o item-list="true">	<item datasource="embeddedProductDS" inline="true">	<key>1140c811-a374-6eaa-cdb7-f7224b56be66</key>
+	<value>USA</value>
+<component id="1140c811-a374-6eaa-cdb7-f7224b56be66">
+	<content-type>/component/override</content-type>
+	<display-template/>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>1140</objectGroupId>
+	<objectId>1140c811-a374-6eaa-cdb7-f7224b56be66</objectId>
+	<internal-name>USA</internal-name>
+	<store_o item-list="true">	<item datasource="storeDS">	<key>/site/components/stores/e6b1acb1-cf0c-aeb7-2072-a9d1541b5bc1.xml</key>
+	<value>United States</value>
+	<include>/site/components/stores/e6b1acb1-cf0c-aeb7-2072-a9d1541b5bc1.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></store_o>
+	<file-name>1140c811-a374-6eaa-cdb7-f7224b56be66.xml</file-name>
+	<createdDate>2020-04-14T22:36:01.894Z</createdDate>
+	<createdDate_dt>2020-04-14T22:36:01.894Z</createdDate_dt>
+	<lastModifiedDate>2020-04-14T22:36:01.894Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-04-14T22:36:01.894Z</lastModifiedDate_dt>
+</component>
+	</item></overrides_o>
+	<body_html>&lt;p&gt;Sirve para tallas S a M.&lt;/p&gt;</body_html>
+	<images_o item-list="true">	<item>	<image_s>/static-assets/images/products/e6f6b43c-3d53-005d-dc6a-cf540203d589/bl03-blanca.jpg</image_s>
+	</item>	<item>	<image_s>/static-assets/images/products/e6f6b43c-3d53-005d-dc6a-cf540203d589/bl03-negra.jpg</image_s>
+	</item></images_o>
+	<variants_o item-list="true">	<item>	<sku_s>cr-blusa-adnfit-03-01</sku_s>
+	<optValue1_s>Blanco</optValue1_s>
+	<optValue2_s/>
+	<optValue3_s/>
+	<tracker_s>Shopify</tracker_s>
+	<fulfillment_s>Correos de Costa Rica</fulfillment_s>
+	<comparePrice_s/>
+	<vImage_s>/static-assets/images/products/e6f6b43c-3d53-005d-dc6a-cf540203d589/bl03-blanca.jpg</vImage_s>
+	<policy_s>deny</policy_s>
+	<taxable_b>true</taxable_b>
+	<shipping_b>false</shipping_b>
+	<giftCard_b>false</giftCard_b>
+	<price_i>10000</price_i>
+	</item>	<item>	<sku_s>cr-blusa-adnfit-03-02</sku_s>
+	<optValue1_s>Negra</optValue1_s>
+	<optValue2_s/>
+	<optValue3_s/>
+	<tracker_s>Shopify</tracker_s>
+	<policy_s>deny</policy_s>
+	<fulfillment_s>Correos de Costa Rica</fulfillment_s>
+	<taxable_b>true</taxable_b>
+	<price_i>10000</price_i>
+	<comparePrice_s/>
+	<shipping_b>true</shipping_b>
+	<giftCard_b>false</giftCard_b>
+	<vImage_s>/static-assets/images/products/e6f6b43c-3d53-005d-dc6a-cf540203d589/bl03-negra.jpg</vImage_s>
+	</item></variants_o>
+	<createdDate>2020-04-14T22:32:26.977Z</createdDate>
+	<createdDate_dt>2020-04-14T22:32:26.977Z</createdDate_dt>
+	<lastModifiedDate>2020-04-14T22:32:26.977Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-04-14T22:32:26.977Z</lastModifiedDate_dt>
+</component>
